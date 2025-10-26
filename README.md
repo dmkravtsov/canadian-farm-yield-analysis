@@ -21,5 +21,6 @@ This project explores and models agricultural productivity across Canadian provi
 
 ## 🧠 Author
 **Dmitriy Kravtsov** — Data Scientist / ML Engineer  
-[LinkedIn](https://www.linkedin.com/in/dmkravtsov) | [GitHub](https://github.com/dmkravtsov)
+[LinkedIn]([https://www.linkedin.com/in/dmkravtsov](https://www.linkedin.com/in/kravtsovdm/)) | [GitHub](https://github.com/dmkravtsov)
+
 
